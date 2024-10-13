@@ -1,9 +1,9 @@
-# Controle de acesso utilizando NodeMCU, RFID, MQTT e Banco de Dados MySQL
+# Controle de acesso utilizando NodeMCU, RFID, MQTT e Banco de Dados MySQl
 
 ![img](https://raw.githubusercontent.com/douglaszuqueto/esp8266-rfid-banco-de-dados/master/files/images/rfid.png)
 
 ## Introdução
-
+Utilizei este projeto como base pra meu tcc e utlizei pra reconhecer as tags rfid e entender um pouco como funciona a api e o envio de dados pra api
 Este projeto possui como objetivo autenticar/autorizar usuários a partir de Tags RFID utilizando uma **SIMPLES** integração com Banco de Dados.
 
 O projeto visa atender uma pendência que eu já tinha com o tema em questão e também atender uma demanda de usuários da comunidade que buscam por temas do tipo. - Em 1 dia, acho que vi umas 3 pessoas procurando por algo.
